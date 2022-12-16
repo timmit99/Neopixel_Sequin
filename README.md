@@ -8,7 +8,7 @@ This is a neopixel board in the same form factor as an Adafruit Sequin LED.
 
 ### Setup
 To use, fold the legs of the SK6812MINI as shown below.
-<img src="Images/LED.png" width="750">
+<img src="Images/LED.jpg" width="750">
 You want to end up with your LED looking like the one on the right
 
 ## BOM
@@ -16,4 +16,3 @@ You want to end up with your LED looking like the one on the right
 | Reference | Description  |    Note    | Quantity |   LCSC   |
 |   :---:   |     :---:    |   :---:    |  :---:   |  :---:   |
 |    D1     |    SK6812    | SK6812MINI |     1    | C524051  |
-
