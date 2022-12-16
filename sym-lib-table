@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Adafruit LED Sequin-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit LED Sequin-eagle-import.kicad_sym")(options "")(descr ""))
+)
